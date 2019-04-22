@@ -1,5 +1,5 @@
 name: dp-docs
-title: DP Docs
+title: DP-Docs
 version: prod
 nav:
 - modules/ROOT/nav.adoc
