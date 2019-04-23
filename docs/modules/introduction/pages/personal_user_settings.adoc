@@ -1,0 +1,22 @@
+:leveloffset: +2
+= Personal User Settings
+:leveloffset: 0
+
+
+The menu provides a link to the 'My Profile' section where the user can personalise a few parameters of the Dashboard:
+
+image:{imageDir}/gui_layout/profile_menu.png[]
+
+
+image:{imageDir}/gui_layout/personalise.png[]
+
+
+The Name, Email, Language and Timezone can be changed and all the other information displayed are read-only
+
+The *Entitlements* Section displays a list of areas and functionalities which the user has access to.
+
+
+NOTE: Default setting is _Browser time zone_ which is the automatically setting of the users's browser.
+
+
+<<<

@@ -1,0 +1,20 @@
+== Login
+// Description of the Login Page
+include::./login_page.adoc[]
+
+<<<
+
+== Interface Layout
+// General information on user interface
+
+include::./left_side_menu.adoc[]
+
+<<<
+
+include::./personal_user_settings.adoc[]
+
+<<<
+
+include::./home_dashboard.adoc[]
+
+<<<

@@ -1,0 +1,14 @@
+:leveloffset: +2
+= Dashboard
+:leveloffset: 0
+
+
+The home dashboard shows visual information, inventory and usage for the various entities in your organisation
+
+The layout can be customized and saved for different groups of users.
+
+Depending on the individual configuration, ```Widgets``` are used to display the required Datasets or Information on the Dashboard.
+
+[.thumb]
+image::{imageDir}/gui_layout/home_dashboard.png[scale=50%]
+

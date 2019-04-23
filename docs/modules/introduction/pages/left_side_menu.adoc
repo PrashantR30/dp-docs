@@ -1,0 +1,25 @@
+:leveloffset: +2
+= Left Side Menu
+:leveloffset: 0
+
+
+The left side menu lets you select the desired functionality and after the login the last item/function selected is remembered and selected by default.
+
+//the a infront of the | enables asciidoc rendering for the following cell.
+[width="90%",height=90%]
+|==================
+|image:{imageDir}/gui_layout/data_portal_dash_side_menu.png[] a|
+
+Below are the Links to the different section provided on the Left Side Menu
+
+* <<#dashboard,Dashboard>>
+* <<#machines,Machines>>
+* <<#reports,Reports>>
+* <<#administration,Administration>>
+|==================
+
+NOTE: On Tablets or Mobile mode, the left side menu is collapsed as shown in the image below:
+
+image:{imageDir}/gui_layout/sidemenu_collapsed.png[]
+
+
