@@ -3,5 +3,5 @@ title: DP-Docs
 version: prod
 nav:
 - modules/ROOT/nav.adoc
-- modules/introduction/introduction.adoc
+- modules/introduction/nav.adoc
 
