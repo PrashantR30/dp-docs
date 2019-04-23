@@ -1,3 +1,6 @@
-.xref:index.adoc[Navigation]
-** xref:personal_user_settings.adoc[Personal files]
-** xref:personal_user_settings.adoc[Personal files]
+.xref:index.adoc[Introduction]
+
+** xref:login_page.adoc[Login Page]
+** xref:personal_user_settings.adoc[Personal User Settings]
+** xref:left_side_menu.adoc[][Left Side Menu]
+** xref:home_dashboard.adoc[][Dashboard]
