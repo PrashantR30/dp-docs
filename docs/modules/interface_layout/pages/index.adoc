@@ -1,3 +1,5 @@
+image::logo.png[Logo]
+
 This document is a base User Manual of the {company_name} {wl-product-name-portal}.
 
 This manual provides all the necessary guides to understand and use the different components provided on the {wl-product-name-portal}, so as to make meaningful representation and visualisation of the Data sent from the Machines.
@@ -10,15 +12,11 @@ The {wl-product-name-portal} is a REST based Web Application and the Data on the
 
 The REST API is <<AEMP compliant, AEMP compliant>> and the Documentation is available at {api_url}
 
+
+
 <<<
 
-:leveloffset: +2
-== Audience
-:leveloffset: 0
 
-OEM's are the primary Audience of this Manual, given that the content is related to permission and accessibility to the various parts of the {wl-product-name-portal}.
-
-NOTE: The user accesses the {wl-product-name-portal} with basic permissions and do not interact with the Machine parameters at anytime.
 
 
 :leveloffset: +2

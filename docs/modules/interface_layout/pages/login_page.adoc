@@ -22,38 +22,4 @@ NOTE: Useful links and references is available in the footer.
 NOTE: The login page is configurable, the logo, the colours, the footnotes can be assigned by the Administrator of the portal, <<Themes, See more details here>>
 
 
-<<<
 
-= Password Policy
-
-New users are requested to add enter a new password with the following criterion:
-
-The password must:
-
- 1. Have at least 12 characters
- 2. Contain an upper-case letter (A-Z)
- 3. Contain a lower-case letter (a-z)
- 4. Contain a space or punctuation mark (one of . , ! or ?)
- 5. Not have any characters more than twice in a row
- 6. Not be your username
-
-
-= Password Reset
-
-Users can reset their password, by clicking on the 'Reset It' link,  and they will be prompted to enter their email address, to which, they will receive further instructions and a link to change their password.
-
-Enter email to send instructions to reset email:
-
-image::{imageDir}/gui_layout/change_password_1.png[scale=40%]
-
-Confirmation that instruction has been sent to your email:
-
-image::{imageDir}/gui_layout/change_password_2.png[scale=40%]
-
-Example of email, click on the button to redirect to the change password page:
-
-image::{imageDir}/gui_layout/change_password_3.png[scale=40%]
-
-Enter your new password following the password policy describe in <<Password Policy>>:
-
-image::{imageDir}/gui_layout/change_password_4.png[scale=40%]
