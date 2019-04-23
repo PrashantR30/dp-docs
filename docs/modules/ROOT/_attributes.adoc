@@ -1,4 +1,12 @@
-:attachmentsdir: {moduledir}/assets/attachments
-:examplesdir: {moduledir}/examples
-:imagesdir: {moduledir}/assets/images
-:partialsdir: {moduledir}/pages/_partials
+// Company Parameters
+:company_name: Proemion
+:wl-company-name: Proemion
+:wl-dataportal-url: https://dataportal.preomion.com
+:wl-company-contact-email: docs@proemion.com
+:authors: Documentation Team
+:endpoint-url: http://docs.proemion.com
+
+// SaaS Product name
+:wl-product-name-platform: DataPlatform
+:wl-product-name-portal: DataPortal
+:api_url: http://docs.proemion.com/

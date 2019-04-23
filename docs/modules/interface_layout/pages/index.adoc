@@ -1,5 +1,3 @@
-image::logo.png[Logo]
-
 This document is a base User Manual of the {company_name} {wl-product-name-portal}.
 
 This manual provides all the necessary guides to understand and use the different components provided on the {wl-product-name-portal}, so as to make meaningful representation and visualisation of the Data sent from the Machines.
@@ -11,12 +9,6 @@ Access to the data portal is secure and managed by an easily configurable way to
 The {wl-product-name-portal} is a REST based Web Application and the Data on the {wl-product-name-portal} is also accessible using the REST API.
 
 The REST API is <<AEMP compliant, AEMP compliant>> and the Documentation is available at {api_url}
-
-
-
-<<<
-
-
 
 
 :leveloffset: +2
