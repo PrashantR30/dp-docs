@@ -1,0 +1,39 @@
+:leveloffset: +2
+= Right-hand Details
+:leveloffset: 0
+
+
+The right hand details view provides a quick overview about the machine state and measurements.
+
+[.thumb]
+image::{imageDir}/gui_layout/right-hand-details.png[scale=50%]
+
+:leveloffset: +3
+== General information
+:leveloffset: 0
+
+
+The upper section shows general information about the machine:
+
+* Online / Offline state
+* Time of state change
+* Machine Name
+* Organization the machine is assigned to
+* Machine <<machine-model,Model>> name
+
+The background colour of this section represents the current <<machine-online-state,online state>>.
+
+Click on _Details_ to open the <<machine-details,Machine Details Page>>.
+
+Click on the _Target_ symbol to zoom the map to the machine.
+
+:leveloffset: +3
+== Signals preview
+:leveloffset: 0
+
+
+In the signals preview section the latest available measurements for all signals of the selected machine are presented.
+Right to the signal name the latest available measurement is displayed.
+Left to the signal name a preview of the last 24 hours signal history is shown.
+Click on the _History preview_ to open the <<plots,Plots>> page for this signal and this machine.
+

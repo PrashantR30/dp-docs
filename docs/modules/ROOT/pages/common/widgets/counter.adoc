@@ -1,0 +1,19 @@
+:leveloffset: +2
+= Counter Widget
+:leveloffset: 0
+
+*Description:* The Counter widget allows users get the actual count of objects in the user's organisation.
+
+*Parameters:*
+
+* A drop down list to select Machine, Machine Models, Units, Organisation, Users.
+
+image::{imageDir}/widgets/data_portal_widget_counter.png[]
+
+*Sample Output:*
+
+image::{imageDir}/widgets/data_portal_widget_counter_example.png[]
+
+*Suggested Usage:* Inventory of Machine, Machine Models, Units, Organisation, Users.
+
+

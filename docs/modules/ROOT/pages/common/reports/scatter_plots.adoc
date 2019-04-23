@@ -1,0 +1,24 @@
+:leveloffset: +2
+= Scatter Plots
+:leveloffset: 0
+
+*Description:*
+
+A scatter plot is a two-dimensional data visualisation that uses a collection of dots to represent the relationship between Data-sets
+
+DataSets can be from different signals or different Machines and for the same or different time period
+
+The data-sets can then be visualized or compared to another set of data of the same signal and machine or with a different sets of data from another machine
+
+*Example:*
+
+image::{imageDir}/reports/data_portal_reports_common_scatterplots_example.png[]
+
+This example shows data set from two demo machines on the same scatter plot. The plot can be used for visual comparison
+
+
+*Additional Functionality:*
+
+*1* : The Chart can be downloaded as various image formats or exported to raw data as shown
+
+*2* : A Slider bar allows the user to zoom in and out of the Scatter Plot  or select a specific segment of data-set the user wish to visualise

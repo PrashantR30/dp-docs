@@ -1,0 +1,37 @@
+:leveloffset: +2
+= Machine Map Widget
+:leveloffset: 0
+
+*Description:* The Machine Map widget allows users to view machines in their organisation on a Map and grouped in clusters
+Apart from the whole fleet, a group of machine can also be select to be displayed on the map.
+
+
+[width="90%"]
+|===
+|image:{imageDir}/widgets/data_portal_widget_machinemap.png[] a|
+*Parameters:*
+
+* Selection - To provide a list the whole organisation or for a specific organisation
+* Name
+* Model
+* Organisation - Specify the organisation in which the machines should be selected
+* Marker - The type of icon to represent the machines
+* Title of the Map
+|===
+
+*Additional Functionality:* As shown in the picture below, on clicking on the top right icon, the page is redirected
+ to the Report Chart page to show the trends over time for this specific signal
+
+*A cluster icon*  is used to represent many machines which are close-by within a geographical location
+
+*Sample Output:*
+
+image::{imageDir}/widgets/data_portal_widget_machinemap_example.png[]
+
+ - 1, 2, 3 Shows the cluster of Machines. When zooming-in bigger clusters are broken down into smaller ones.
+
+ - 4 shows the individual machines when the user zooms in the map
+
+
+*Suggested Usage* of the Machine Map Widget: Inventory list of Machines
+

@@ -1,0 +1,13 @@
+include::./machine-model.adoc[]
+
+---
+<<<
+
+include::./machine-online-state.adoc[]
+
+---
+<<<
+
+include::./organisations.adoc[]
+
+<<<

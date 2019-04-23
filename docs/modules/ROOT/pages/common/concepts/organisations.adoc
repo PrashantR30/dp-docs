@@ -1,0 +1,10 @@
+:leveloffset: +2
+= Organisations
+:leveloffset: 0
+
+
+The Organisation-Tree (OrgTree) is one of the core concepts of the {wl-product-name-platform}.
+
+All primary items are located in the hierarchical structure.
+
+More information about the OrgTree can be found in the Administration Section here: <<Organisation Unit, Organisation Unit>>.

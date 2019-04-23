@@ -1,0 +1,39 @@
+:leveloffset: +2
+= Slice Widget
+:leveloffset: 0
+
+*Description:* The Slice widget allows users to view several signals levels or usage for a specific period of time.
+
+This representation can be either a PieChart or a Donut and representing the different Signals in Different colors
+
+[width="90%"]
+|===
+|image:{imageDir}/widgets/data_portal_widget_slice.png[] a|
+*Parameters:*
+
+* Selection - To provide a list the whole organisation or for a specific organisation
+* Name
+* Model
+* Chart type - Representation in Donut or Pie Chart
+* The last - The period for which data is used
+* Aggregation - The aggregation used
+* Units
+* The Signal to represent on the Chart
+
+|===
+
+
+*Additional Functionality:* As shown in the picture below, on clicking on the top right icon,
+the page is redirected to the Report Chart page to show the trends over time for this specific signal.
+
+*Sample Output:*
+
+image:{imageDir}/widgets/data_portal_widget_slice_example.png[]
+
+*Suggested Usage:* Use it for multiple signals that sum up to a total.
+This provides a visual distribution of the sum.
+
+This example shows the different states of a Machine for a period of time.
+
+image:{imageDir}/widgets/data_portal_widget_slice_example_2.png[]
+

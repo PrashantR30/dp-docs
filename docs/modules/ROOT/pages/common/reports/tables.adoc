@@ -1,0 +1,22 @@
+:leveloffset: +2
+= Tables
+:leveloffset: 0
+
+*Description:*
+
+The table report is the simplest visualisation of for data-sets
+
+Data-sets can be for different time period, from different signals of the same machine or from different machines.
+
+The information on the tables can be used visualise and compare different data set onto the same table
+
+*Example:*
+
+image::{imageDir}/reports/data_portal_reports_common_table_example.png[]
+
+This example show the output results of the Data-sets from two different machines on a single table
+
+
+//*Additional Functionality:*
+//
+//The table can be downloaded as various image formats or exported to raw data as csv and excel format as show//n

@@ -1,0 +1,26 @@
+:leveloffset: +2
+= Capacity Widget
+:leveloffset: 0
+
+*Description:* The Capacity widget allows user to select and display a value of a specific signal and indicates the remaining of the total consumer capacity.
+
+*Configuration:*
+
+image:{imageDir}/widgets/data_portal_widget_capacity.png[pdfWidth=40%]
+
+*Parameters:*
+
+* Model
+* Machine
+* Signal (depending on the Model and the Machine a list of Signals will be available to select from)
+* The 100% value or maximum value or usage capacity of the signal
+
+
+*Sample Output:*
+
+image::{imageDir}/widgets/data_portal_widget_capacity_example.png[capacity_example]
+
+
+*Suggested Usage:* For Temperature measurement, Tank Capacity, Working Hours, Network Traffic, Inclination
+
+

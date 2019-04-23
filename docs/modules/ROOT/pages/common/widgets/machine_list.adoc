@@ -1,0 +1,33 @@
+:leveloffset: +2
+= Machine List Widget
+:leveloffset: 0
+
+
+*Description:* The Machine List widget allows users to view machines in the organisation.
+
+[width="90%"]
+|===
+|image:{imageDir}/widgets/data_portal_widget_machinelist.png[] a|
+*Parameters:*
+
+* Selection - To provide a list the whole organisation or for a specific organisation
+* Name
+* Model
+* Organisation - specify the organisation in which the machines should be selected
+* The signal (depending on the Model and the Machine - a list of Signals is available to select from)
+* The 100% value or maximum usage capacity of the signal
+* Title of the list
+
+|===
+
+*Additional Functionality:* As shown in the picture below, on clicking on the top right icon, the page is redirected
+ to the Report Chart page to show the trends over time for this specific signal
+
+*Sample Output:*
+
+image::{imageDir}/widgets/data_portal_widget_machinelist_example.png[]
+
+
+*Suggested Usage:* Inventory list of Machines
+
+

@@ -1,0 +1,84 @@
+:leveloffset: +2
+= Adding a widget
+:leveloffset: 0
+
+This section describes each widget and illustrates how they are added on the dashboard.
+
+To add a widget follow the following steps:
+
+image::{imageDir}/widgets/data_portal_widget_add.png[]
+
+*Step 1:* Click on the ```Hamburger``` icon, on the top right
+
+*Step 2:* Click on the ```Edit Widgets``` button as shown
+
+*Step 3:* Then click on the ```Add Widget``` icon to display the list of Widgets to add
+
+NOTE: At [#dot]#4#, Widgets assignment to Different groups is explained in the  <<Save Layout to Organisation Units or Groups, Save Layout to Organisation Units or Groups>> section.
+
+image::{imageDir}/widgets/data_portal_widget_select.png[]
+
+Upon selecting a widget type, various configuration settings are presented.
+
+As well, as in ```Step 2``` existing widgets can be edited by clicking on the top right pencil icon.
+
+When configuration is done, preview and save so as not to lose the settings
+
+---
+<<<
+
+:leveloffset: +2
+= Saving the Layout to the OU
+:leveloffset: 0
+
+OU's are <<Organisation Units,Organisation Units>> are groups of users, defined by the Administrator
+
+When Saving, the `ASSIGN WIDGET LAYOUT TO ORGANIZATION(S)' appears to the right, as show.
+
+image::{imageDir}/widgets/data_portal_widget_save.png[]
+
+By default the widget is assigned to the Organisation(s) to which the user is already assigned
+
+To assign the widget to other Organisation, simply
+
+ - 1. Check the box next to the Organisation name
+
+ - 2. Click on assign
+
+image::{imageDir}/widgets/data_portal_widget_save_ou.png[]
+
+As demonstrated above, the Widget is assigned to three other Organisation.
+
+The layout is saved by clicking on 'ASSIGN' button
+
+To view the dashboard related to the Organisation unit, Go to Administration, Overview, Select the Organisation Unit on the Side Sidebar and Click on the Dashboard Tab as shown in <<Overview, Administration Overview>> section.
+
+---
+<<<
+
+:leveloffset: +2
+= Common Parameters
+:leveloffset: 0
+
+The Widget section describes each and every widget available and their specific parameters to be customized.
+
+After selecting the widget, the Model of the Devices and the Machine should be added first:
+
+image::{imageDir}/widgets/data_portal_widget_common.png[25%]
+
+After that the parameter specific to the widget added.
+As well the accuracy in decimal also is to be specified, and the default is 1 Decimal place.
+
+The widget can be dragged, positioned and resize accordingly and this option is enabled in the edit mode.
+
+image::{imageDir}/widgets/widget_resize.png[]
+
+:leveloffset: +2
+= Reports and Historic Charts
+:leveloffset: 0
+
+On clicking on the top right icon on certain Widgets, the page is redirected to the historic report of the selected values, as illustrated below.
+
+image::{imageDir}/widgets/data_portal_widget_report_link.png[25%]
+
+The report view provides an easy view on the variation of the selected signal for the selected time.

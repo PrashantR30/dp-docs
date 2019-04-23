@@ -1,0 +1,50 @@
+:leveloffset: +2
+= Machines
+:leveloffset: 0
+
+The machines overview shows a list of all machines available to the user.
+Additionally a map with the position of the machines is shown.
+
+[.thumb]
+image::{imageDir}/gui_layout/machines_overview.png[scale=50%]
+
+:leveloffset: +3
+== Map
+:leveloffset: 0
+
+
+
+The map shows the last known positions of all devices in the _Machine List_ selection.
+Machines that are located closely together are combined by a grouping symbol.
+This symbol shows the number of machines in this area.
+Click on the symbol to zoom in to this area.
+
+When hovering the mouse over a machine symbol, some details are displayed:
+
+* Machine Name
+* Current <<machine-online-state,online state>>
+* Date and time the state had changed last
+
+When clicking on a machine symbol, the <<right-hand-details,Right Hand Details view>> is shown for the selected machine.
+
+:leveloffset: +3
+== Machine List
+:leveloffset: 0
+
+
+The machine list shows the following attributes for the available machines:
+
+* <<machine-online-state,Online state>>
+* Name
+* <<machine-model,Model>> name
+* <<organizations,Organization>>
+* <<machine-details,Details link>>
+
+Some columns allow searching.
+The search is executed as soon as the user types in the details.
+The map display automatically adjusts to the search results.
+
+When clicking on one row, the <<right-hand-details,Right Hand Details view>> is shown for the selected machine.
+
+When clicking on _Details_ the <<machine-details,Machine Details>> page for the selected machine is opened.
+

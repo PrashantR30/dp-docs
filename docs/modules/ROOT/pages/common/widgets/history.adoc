@@ -1,0 +1,29 @@
+:leveloffset: +2
+= History Widget
+:leveloffset: 0
+
+*Description:* The History widget allows users to view the signal values of a time period on a Line Chart or Bar Chart.
+
+*Parameters:*
+
+* Model
+* Machine
+* Time period of 5 mins, 1 hour, 1 Day, 7 Days and 30 Days
+* The signal (depending on the Model and the Machine - a list of Signals is available to select from)
+* The Aggregation
+* The Line Style which can be line or column
+
+
+image::{imageDir}/widgets/data_portal_widget_history.png[]
+
+*Additional Functionality:* As shown in the picture below, on clicking on the top right icon, the page is redirected
+ to the Report Chart page to show the trends over longer time range for this specific signal.
+
+*Sample Output:*
+
+image::{imageDir}/widgets/data_portal_widget_history_example.png[]
+
+*Suggested Usage:* Applicable to all Signal
+
+[width="90%",height=90%]
+

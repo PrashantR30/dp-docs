@@ -1,0 +1,7 @@
+image:logo/logo.png[Logo]
+
+Author: {wl-company-name} {authors} <{wl-company-contact-email}>
+
+Version: rev number: {project-version}
+
+---
