@@ -1,7 +1,7 @@
 *DataPortal User-Manual*
 
 [.left]
-image::logo.png[Logo,600]
+image::logo.png[Logo,600,loat="right",align="center"]
 
 ---
 
