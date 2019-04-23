@@ -3,10 +3,9 @@ DataPortal User-Manual
 
 ---
 
-image::logo.png[Logo]
+image::logo.png[Logo,400]
 
 ---
-
 
 This document is a base User Manual of the {company_name} {wl-product-name-portal}.
 
