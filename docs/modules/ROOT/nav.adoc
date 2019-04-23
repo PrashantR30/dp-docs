@@ -1,3 +1,4 @@
 .xref:index.adoc[Introduction]
 * xref:audience.adoc[Audience]
 * xref:howtousedoc.adoc[How to use this Document]
+* xref:a.html[Partial]
