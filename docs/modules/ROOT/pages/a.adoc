@@ -1,6 +1,5 @@
-<div>
-    include::_partial/can3000.adoc[]
+include::_partial/can3000.adoc[]
 
+11
 
-
-</div>
+include::{partialsdir}/can3000.adoc[]
