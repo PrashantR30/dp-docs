@@ -1,2 +1,3 @@
-[Introduction]
-* xref:personal_user_settings.adoc[Personal User Settings]
+.xref:index.adoc[Navigation]
+** xref:personal_user_settings.adoc[Personal files]
+** xref:personal_user_settings.adoc[Personal files]

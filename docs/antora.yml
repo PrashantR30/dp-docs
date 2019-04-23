@@ -1,6 +1,6 @@
 name: dp-docs
-title: DP-Docs
-version: prod
+title: Data Portal Documentation
+version: Data Portal Documentation
 nav:
 - modules/ROOT/nav.adoc
 - modules/introduction/nav.adoc
