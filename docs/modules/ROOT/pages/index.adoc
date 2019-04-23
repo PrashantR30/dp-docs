@@ -1,6 +1,4 @@
-DataPortal User-Manual
--------
-
+*DataPortal User-Manual*
 ---
 
 image::logo.png[Logo,400]
