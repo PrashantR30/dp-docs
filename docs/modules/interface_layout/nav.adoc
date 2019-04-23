@@ -1,6 +1,8 @@
 .xref:index.adoc[Introduction]
 
 ** xref:login_page.adoc[Login Page]
+*** xref:password_policy.adoc[Password Policy]
+*** xref:password_reset.adoc[Password Reset]
 ** xref:personal_user_settings.adoc[Personal User Settings]
 ** xref:left_side_menu.adoc[][Left Side Menu]
 ** xref:home_dashboard.adoc[][Dashboard]

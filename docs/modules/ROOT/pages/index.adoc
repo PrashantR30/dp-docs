@@ -9,32 +9,3 @@ Access to the data portal is secure and managed by an easily configurable way to
 The {wl-product-name-portal} is a REST based Web Application and the Data on the {wl-product-name-portal} is also accessible using the REST API.
 
 The REST API is <<AEMP compliant, AEMP compliant>> and the Documentation is available at {api_url}
-
-<<<
-
-:leveloffset: +2
-== Audience
-:leveloffset: 0
-
-OEM's are the primary Audience of this Manual, given that the content is related to permission and accessibility to the various parts of the {wl-product-name-portal}.
-
-NOTE: The user accesses the {wl-product-name-portal} with basic permissions and do not interact with the Machine parameters at anytime.
-
-
-:leveloffset: +2
-== How to use this Document
-:leveloffset: 0
-
-This document describes all the components of the {wl-product-name-portal} Cloud Application and how to configure and use each of them.
-
- - For User within a Group or Organisation Unit then this is a good to start at the beginning of the Document
-
- - Each User has a minimum Administration Facility as explained in section <<Admin Overview, Admin Overview>>
-
-For OEM and Administrator, it is advisable to do plan and start with the <<Admin Overview, Admin Overview>>
-
- - To create a Hierarchical Tree of the Organisation Units.
-
- - To assign the Machines and Users to the required Organisation Units
-
-<<<

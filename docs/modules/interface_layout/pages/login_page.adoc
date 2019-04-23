@@ -1,6 +1,4 @@
-:leveloffset: +2
 = Login page
-:leveloffset: 0
 
 Access the {wl-product-name-portal} URL from your Web Browser
 
@@ -26,9 +24,7 @@ NOTE: The login page is configurable, the logo, the colours, the footnotes can b
 
 <<<
 
-:leveloffset: +2
 = Password Policy
-:leveloffset: 0
 
 New users are requested to add enter a new password with the following criterion:
 
@@ -42,9 +38,7 @@ The password must:
  6. Not be your username
 
 
-:leveloffset: +2
 = Password Reset
-:leveloffset: 0
 
 Users can reset their password, by clicking on the 'Reset It' link,  and they will be prompted to enter their email address, to which, they will receive further instructions and a link to change their password.
 

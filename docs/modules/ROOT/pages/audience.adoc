@@ -1,0 +1,5 @@
+= Audience
+
+OEM's are the primary Audience of this Manual, given that the content is related to permission and accessibility to the various parts of the {wl-product-name-portal}.
+
+NOTE: The user accesses the {wl-product-name-portal} with basic permissions and do not interact with the Machine parameters at anytime.
