@@ -1,5 +1,6 @@
+This is a page.
+
 include::_partial/can3000.adoc[]
 
-11
 
-include::{partialsdir}/can3000.adoc[]
+This is 
